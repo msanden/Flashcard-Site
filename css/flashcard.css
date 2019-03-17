@@ -1,0 +1,36 @@
+#javascript-hidden, #operator-hidden, #variables-hidden, #namingConventions-hidden,
+#functions-hidden,#strings-hidden,#methods-hidden,#arguments-hidden,#parameters-hidden,
+#return-hidden,#chainingMethods-hidden,#booleans-hidden,#undefined-hidden,
+#NaN-hidden,#escape-hidden,#alert-hidden,#comments-hidden,#jQuery-hidden
+,#attributes-hidden {
+  display: none;
+}
+
+.clickable,.clickable1,.clickable2,.clickable3,.clickable4,
+.clickable5,.clickable6,.clickable7,.clickable8,.clickable9,
+.clickable10,.clickable11,.clickable12,.clickable13,.clickable14,
+.clickable15,.clickable16,.clickable17,.clickable18 {
+  cursor: pointer;
+}
+
+
+/* .clickable:hover {
+  text-decoration: underline;
+} */
+
+.jumbotron {
+  font-family: fantasy;
+  background-color: #D39F24;
+}
+
+.well {
+  background-color: #C1E86E;
+}
+
+.panel {
+  background-color: #EFE556;
+}
+
+body {
+  background-color: #fff;
+}
